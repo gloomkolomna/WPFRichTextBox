@@ -22,4 +22,5 @@ Paste from the clipboard the same image and click "Save"
 
 ## Error!
 
-Wow!
+Wow! FatalExceptionEgineError!
+an error occurs in the System.Windows.Documents.WpfPayload -> "private BitmapSource GetBitmapSourceFromImage(Image image)" -> "DpiScale dpi = image.GetDpi();"
